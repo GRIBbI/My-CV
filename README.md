@@ -1,2 +1,2 @@
-HI 
-https://github.com/GRIBbI/Script/tree/master/CV
+HI,nice to see you.
+https://gribbi.github.io/CV/
