@@ -1,0 +1,10 @@
+body{
+  background: url("/img/480e49f630d540ec3c2de554e45177ae.jpg" )no-repeat fixed;
+  background-size: cover;
+}
+h1{
+  font-style: italic;
+  font-size: 42px;
+  color: aquamarine;
+  text-align: center;
+}
