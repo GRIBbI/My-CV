@@ -1,0 +1,12 @@
+body{
+  background-image: url(/Дом/img/cosmos.jpg);
+  background-color: #000;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: contain;
+}
+.main__h1{
+  text-align: center;
+  color: red;
+}
