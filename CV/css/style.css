@@ -56,14 +56,25 @@ body {
   margin-bottom: 20px;
 }
 
-.resume .resume_left .bold {
-  color: #fff;
+.git-link{
+  text-decoration: none;
+  color: #b1eaff;
 }
+.resume .resume_left .bold {
+  color: #b1eaff;
 
+}
 .resume .resume_left .regular {
   color: #b1eaff;
 }
-
+.mail{
+  text-decoration: none;
+  color: #b1eaff;
+}
+.tel{
+  text-decoration: none;
+  color: #b1eaff;
+}
 .resume .resume_item {
   padding: 25px 0;
   border-bottom: 2px solid #b1eaff;
